@@ -1,0 +1,125 @@
+div.gallery {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallery img {
+    width: 105px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}
+
+div.gallery6 {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallery6 img {
+    width: 105px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}
+
+
+div.gallery2 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	z-index:5;
+	
+}
+div.gallery2 img {
+	clear: inherit;
+	width: 105px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+	
+div.gallery3 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	z-index:5;
+	
+}
+div.gallery3 img {
+	clear: inherit;
+	width: 105px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+
+div.gallery4 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	top: 585px;
+	left: 11px;
+	z-index:5;
+	
+}
+div.gallery4 img {
+	clear: inherit;
+	width: 120px;
+    height: 180px;
+	padding-left: 5px;
+	padding-right: 5px;
+	z-index:5;
+}
+
+div.gallery5 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	top: 640px;
+	left: 11px;
+	z-index:5;
+	
+}
+div.gallery5 img {
+	clear: inherit;
+	width: 260px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+	
+div.gallery6 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	top: 850px;
+	left: 11px;
+	z-index:5;
+	
+}
+div.gallery6 img {
+	clear: inherit;
+	width: 260px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+
+div.gallerypod {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallerypod img {
+    width: 115px;
+    height: 125px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}
