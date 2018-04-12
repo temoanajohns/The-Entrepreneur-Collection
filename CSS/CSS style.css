@@ -1,0 +1,92 @@
+	body {
+    background-attachment: fixed; margin:0;
+	}
+	
+	.p { 
+	font-family:calibri; 
+	font-size:20px; 
+	word-spacing:20px;}
+	
+	.pop-out
+    {
+        transition: transform 0.2s;
+     
+    }
+
+    .pop-out:hover
+    {
+        -ms-transform: scale(1.1, 1.1);
+        -webkit-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1);
+      
+    }
+	
+	.pop-out2
+    {
+        transition: transform 0.2s;
+       
+    }
+
+    .pop-out2:hover
+    {
+        -ms-transform: scale(1.05, 1.05);
+        -webkit-transform: scale(1.05, 1.05);
+        transform: scale(1.05, 1.05);
+        
+    }
+	
+	
+	.navbar a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+	left:600px;
+    vertical-align: top;
+  }
+	
+	.title {color:lime;}
+	a:link {color: lime; text-decoration:none;}
+	a:visited {color: lime;}
+	a:hover {color: white; background-color:lime;}
+	h3 {font-size:40px;}
+	h2 {position:absolute; font-family:calibri;color:lime; z-index: 3; position:center;}	
+	
+		input[type=text] {
+    color:black;
+	width: 400px;
+    position:absolute;
+    left:960px;
+    top:10px;
+	box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    font-size: 17px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 200px 100px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 10px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;}
+	
+	input::-webkit-input-placeholder {
+	color: lime !important; font-family:calibri
+	}
+ 
+	input:-moz-placeholder { /* Firefox 18- */
+	color: lime !important;  
+	}
+ 
+	input::-moz-placeholder {  /* Firefox 19+ */
+	color: lime !important;  
+	}
+ 
+	input:-ms-input-placeholder {  
+	color: lime !important;  
+	}
+	
+	input[type=text]
+	:focus {width: 100%;}
+

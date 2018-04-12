@@ -1,0 +1,91 @@
+div.gallery {
+    Position: relative;
+    float: left;
+	left: 11px;
+	z-index:3;
+}
+div.gallery img {
+    width: 105px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}
+
+div.gallery7 {
+    Position: relative;
+    float: left;
+	left: 11px;
+	z-index:3;
+}
+div.gallery7 img {
+    width: 105px;
+    height: 160px;
+	padding-left: 10px;
+	padding-right: 10px;
+	z-index:1;
+}
+
+div.gallery5 {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallery5 {
+    width: 115px;
+    height: 125px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}	
+
+div.gallery2 {
+    Position: relative;
+    float: left;
+	left:11px;
+	z-index:5;
+	
+}
+div.gallery2 img {
+	width: 260px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+	
+div.gallery3 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	top: 530px;
+	left: 11px;
+	z-index:5;
+	
+}
+div.gallery3 img {
+	clear: inherit;
+	width: 105px;
+    height: 105px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+
+div.gallery4 {
+    Position: relative;
+    float: left;
+	clear: inherit;
+	left: 11px;
+	z-index:5;
+	
+}
+div.gallery4 img {
+	clear: inherit;
+	width: 260px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:5;
+}
+

@@ -1,0 +1,12 @@
+div.gallerypod {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallerypod img {
+    width: 115px;
+    height: 125px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}

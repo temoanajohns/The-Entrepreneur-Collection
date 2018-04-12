@@ -1,0 +1,13 @@
+div.gallerytube {
+    Position: relative;
+    float: left;
+	z-index:3;
+}
+div.gallerytube img {
+    width: 260px;
+    height: 160px;
+	padding-left: 1px;
+	padding-right: 1px;
+	z-index:3;
+}
+
